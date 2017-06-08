@@ -296,4 +296,4 @@ root@kali:~#
 ```
 
 ![Image of Demo](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_23_3.png)
-![Image of Wireshark](https://octodex.github.com/images/yaktocat.png)
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_23_4.jpeg)
