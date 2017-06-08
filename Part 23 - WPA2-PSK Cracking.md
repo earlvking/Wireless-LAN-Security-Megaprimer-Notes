@@ -182,7 +182,7 @@ root@kali:~#
 
 Configure the AP to use ```WPA2-PSK```
 
-<---Add image here--->
+![Image of Config](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_23_1.png)
 
 ```airodump-ng``` output for ```WPA2-PSK``` networks
 
@@ -219,7 +219,7 @@ Open the ```wpa2-psk-01.cap``` file in ```Wireshark```
 
 Set the filter as ```eapol``` and see if you captured the 4 way handshake
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_23_2.jpeg)
 
 Cracking ```WPA2-PSK``` using ```aircrack-ng```
 
@@ -295,5 +295,5 @@ wpa2-psk-01-dec.cap: tcpdump capture file (little-endian) - version 2.4 (Etherne
 root@kali:~#
 ```
 
-<---Add image here--->
-<---Add image here--->
+![Image of Demo](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_23_3.png)
+![Image of Wireshark](https://octodex.github.com/images/yaktocat.png)
