@@ -40,8 +40,6 @@ PHY	Interface	Driver		Chipset
 
 phy2	wlan0		rtl8187		Realtek Semiconductor Corp. RTL8187
 
-root@kali:~#
-
 root@kali:~# airmon-ng start wlan0
 
 
