@@ -1,6 +1,6 @@
 #### Part 5: Dissecting WLAN Headers
 
-* SSID
+* SSID / ESSID
 
 	AP Name such as ```Pwned```
 
