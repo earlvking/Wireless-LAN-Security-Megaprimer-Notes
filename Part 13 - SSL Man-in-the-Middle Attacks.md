@@ -309,6 +309,6 @@ root@kali:~#
 
 Set ```burp``` to intercept the traffic on ```80``` and ```443``` in ```invisible``` mode
 
-<---Add image here--->
+![Image of Burp_Config](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_13.jpeg)
 
 All http/https traffic can be viewed in plain text via ```burp```
