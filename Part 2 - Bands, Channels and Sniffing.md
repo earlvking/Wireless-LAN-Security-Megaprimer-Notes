@@ -50,8 +50,6 @@ phy2	wlan0		rtl8187		Realtek Semiconductor Corp. RTL8187
 		(mac80211 monitor mode vif enabled for [phy2]wlan0 on [phy2]wlan0mon)
 		(mac80211 station mode vif disabled for [phy2]wlan0)
 		
-root@kali:~#
-
 root@kali:~# airmon-ng 
 
 PHY	Interface	Driver		Chipset
@@ -131,7 +129,7 @@ root@kali:~#
 
 Make the card hop different channels and look for what is available in the air
 <br/>
-The value of <b>CH</b> keeps changing as the card hops various channels
+The value of ```CH``` keeps changing as the card hops various channels
 
 ```sh
 root@kali:~# airodump-ng --band bg wlan0mon
@@ -181,4 +179,3 @@ root@kali:~# airodump-ng --band bg wlan0mon
 
 root@kali:~#
 ```
-
