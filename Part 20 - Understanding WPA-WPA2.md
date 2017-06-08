@@ -1,4 +1,4 @@
-#### Part	20: Understanding WPA/WPA2
+#### Part 20: Understanding WPA/WPA2
 
 Before connecting the Alfa card
 
@@ -182,7 +182,7 @@ root@kali:~#
 
 Configure the AP to use ```WPA```
 
-<---Add image here--->
+![Image of Demo](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_20_1.png)
 
 ```airodump-ng``` output for ```WPA``` networks
 
@@ -216,7 +216,7 @@ root@kali:~#
 
 Configure the AP to use ```WPA2```
 
-<---Add image here--->
+![Image of Demo](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_20_2.png)
 
 ```airodump-ng``` output for ```WPA2``` networks
 
