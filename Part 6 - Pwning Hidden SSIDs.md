@@ -182,7 +182,7 @@ root@kali:~#
 
 Identify channel of AP
 <br/>
-The AP is not Hidden
+The AP ```HiddenSSID``` is not Hidden
 
 ```sh
 root@kali:~# airodump-ng wlan0mon
@@ -221,11 +221,12 @@ root@kali:~#
 ```
 
 AP Config for Hidden SSID
-<--- add image here--->
+![Image of Config](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_6.jpeg)
 
 * Method 1 - Passive
 
-	Monitor air for a new client trying to associate with theaccess point
+	Monitor air for a new client trying to associate with the
+access point
 
 Capture packets in the air
 <br/>
@@ -290,7 +291,7 @@ root@kali:~# airodump-ng wlan0mon --channel 4 --bssid 84:C9:B2:6D:0C:85
 root@kali:~#
 ```
 
-Disconnect all clients conected to the Hidden AP
+Disconnect all clients connected to the Hidden AP
 
 ```sh
 root@kali:~# aireplay-ng --deauth 0 -a 84:C9:B2:6D:0C:85 wlan0mon
