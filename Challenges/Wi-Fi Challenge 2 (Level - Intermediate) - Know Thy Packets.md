@@ -4,7 +4,7 @@
 
 Understanding the packet capture
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_1.jpeg)
 
 The timestamps are not accurate as there are -ve values in the ```Time``` column.
 
@@ -14,25 +14,25 @@ Present Configuration
 
 Wireshark &rarr; View &rarr; Time Display Format &rarr; Seconds Since Beginning of Capture
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_2.jpeg)
 
 Change it to
 
 Wireshark &rarr; View &rarr; Time Display Format &rarr; Date and Time of Day
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_3.jpeg)
 
 Now the packet capture is sorted
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_4.jpeg)
 
 Browsing through the packet capture a logical breakup can be observed as there is a time gap of approximately ```2:30``` between the packets
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_5.jpeg)
 
 Segregating the packets into separate trace files
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_6.jpeg)
 
 Filters used :
 
@@ -40,8 +40,8 @@ Filters used :
 frame.time <= "2011-05-14 02:34:09.348717"
 frame.time >= "2011-05-14 02:34:09.348717"
 ```
-<---Add image here--->
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_7.jpeg)
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_8.jpeg)
 
 Cracking the key using ```aircrack-ng```
 
@@ -154,6 +154,4 @@ Starting PTW attack with 11290 ivs.
 root@kali:~#
 ```
 
-```Key-2``` extracted 
-
-
+```Key-2``` extracted
