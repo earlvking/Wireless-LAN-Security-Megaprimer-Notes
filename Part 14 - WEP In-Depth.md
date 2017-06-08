@@ -184,19 +184,19 @@ root@kali:~#
 
 Wireshark &rarr; Wireless &rarr; WLAN Traffic
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_14_1.jpeg)
 
 - Decrypt ```WEP``` traffic when we have the key in ```Wireshark```
 
 Edit &rarr; Preferences &rarr; Protocols &rarr; IEEE 802.11 &rarr; Decryption Keys &rarr; Edit &rarr; Key type : WEP , Key : aa:bb:cc:dd:ee &rarr; Enable Decryption
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_14_2.jpeg)
 
 - Decrypt ```WEP``` enabled packets using ```airdecap-ng```
 
 Save the packet capture in ```pcap``` format
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_14_3.jpeg)
 
 ```sh
 root@kali:~/Desktop# ls -la encrypted_packets.pcap 
@@ -214,5 +214,3 @@ root@kali:~/Desktop# ls -la encrypted_packets*
 -rw-r--r-- 1 root root 3966 Jun  6 16:06 encrypted_packets.pcap
 root@kali:~/Desktop# 
 ```
-
-
