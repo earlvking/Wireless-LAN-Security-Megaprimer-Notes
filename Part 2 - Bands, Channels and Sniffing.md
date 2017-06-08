@@ -88,8 +88,6 @@ wlan0mon: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX packets 0  bytes 0 (0.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-root@kali:~# 
-
 root@kali:~# iwconfig 
 wlan0mon  IEEE 802.11  Mode:Monitor  Frequency:2.457 GHz  Tx-Power=20 dBm   
           Retry short limit:7   RTS thr:off   Fragment thr:off
