@@ -26,7 +26,7 @@ Now the packet capture is sorted
 
 ![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_4.jpeg)
 
-Browsing through the packet capture a logical breakup can be observed as there is a time gap of approximately ```2:30``` between the packets
+Browsing through the packet capture, a logical breakup can be observed as there is a time gap of approximately ```2:30``` between the packets
 
 ![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/challenge/ch_2_5.jpeg)
 
