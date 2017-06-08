@@ -224,7 +224,7 @@ root@kali:~# airodump-ng wlan0mon
 
 root@kali:~#
 ```
-The <b>dlink</b> AP is on channel 1
+The ```dlink``` AP is on channel 1
 <br/>
 Put the card on channel 1
 
