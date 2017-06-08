@@ -214,7 +214,7 @@ root@kali:~# airodump-ng wlan0mon
 root@kali:~#
 ```
 
-The <b>dlink</b> AP is on channel 4
+The ```dlink``` AP is on channel 4
 <br/>
 Put the card on channel 4
 
@@ -242,7 +242,7 @@ root@kali:~#
 ```
 
 MAC filtering configuration
-<----add image here--->
+![Image of Config](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_7.jpeg)
 
 Bypass MAC filters
 
