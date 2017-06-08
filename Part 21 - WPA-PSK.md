@@ -1,4 +1,4 @@
-#### Part 22: WPA-PSK
+#### Part 21: WPA-PSK
 
 Before connecting the Alfa card
 
@@ -182,7 +182,7 @@ root@kali:~#
 
 Configure the AP to use ```WPA-PSK```
 
-<---Add image here--->
+![Image of Config](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_21_1.png)
 
 ```airodump-ng``` output for ```WPA``` networks
 
@@ -216,4 +216,4 @@ Open the ```wpa_psk_demo-01.cap``` file in ```Wireshark```
 
 Set the filter as ```eapol``` and see if you captured the 4 way handshake
 
-<---Add image here--->
+![Image of Wireshark](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_21_2.jpeg)
