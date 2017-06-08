@@ -193,7 +193,7 @@ root@kali:~# airodump-ng wlan0mon --channel 4 --bssid 84:C9:B2:6D:0C:85
 
  BSSID              STATION            PWR   Rate    Lost    Frames  Probe
 
- 84:C9:B2:6D:0C:85  BC:9F:EF:69:35:19  -26    5e-11      0      169
+ 84:C9:B2:6D:0C:85  BC:9F:EF:69:35:19  -26    5e-11      0      169  dlink
 root@kali:~#
 ```
 
