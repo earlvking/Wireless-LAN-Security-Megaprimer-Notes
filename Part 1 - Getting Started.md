@@ -2,7 +2,7 @@
 
 Make the Alfa card exclusive to our Kali machine
 
-<----Add image here---->
+![Image of VirtualBox](https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes/blob/master/images/part_1.jpeg)
 
 Alfa card not connected
 
